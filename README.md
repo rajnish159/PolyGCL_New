@@ -12,7 +12,7 @@ scikit-learn 0.24.2
 
 **Reproduce the results**
 You can run the following commands directly.
-$sh exp_PolyGCL.sh
+sh exp_PolyGCL.sh
 
 ![Screenshot (403)](https://github.com/rajnish159/PolyGCL_New/assets/108886478/2c57e8ea-2de7-44e1-8b93-e7240b28989d)
 
